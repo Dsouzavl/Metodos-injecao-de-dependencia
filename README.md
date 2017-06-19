@@ -2,7 +2,7 @@
 
 ### Escrito por Victor Souza A.k.a _vhost_
 
-Injeção de dependência, é um padrão de projeto que tem a finalidade de tem como objetivo remover o alto acoplamento entre as classes causados por dependências que são resolvidas de forma _hard-coded_ na classe. Por exemplo, pense que você tem uma classe assim:
+Injeção de dependência, é uma prática que tem a finalidade de remover o alto acoplamento entre as classes causados por dependências que são resolvidas de forma _hard-coded_ na classe. Por exemplo, pense que você tem uma classe assim:
 
 ```csharp
 public class MyClass
